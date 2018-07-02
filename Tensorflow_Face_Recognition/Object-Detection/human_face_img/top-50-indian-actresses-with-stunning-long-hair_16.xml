@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>top-50-indian-actresses-with-stunning-long-hair_16.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/top-50-indian-actresses-with-stunning-long-hair_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>110</ymin>
+			<xmax>417</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

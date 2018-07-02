@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Jyothi_Krishna_(Malayalam_Actress)_20161013101023.jpeg</filename>
+	<path>/home/robin/Desktop/human_face_img/Jyothi_Krishna_(Malayalam_Actress)_20161013101023.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>186</ymin>
+			<xmax>503</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

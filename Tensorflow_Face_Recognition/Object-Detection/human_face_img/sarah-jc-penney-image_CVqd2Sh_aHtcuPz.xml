@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>sarah-jc-penney-image_CVqd2Sh_aHtcuPz.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/sarah-jc-penney-image_CVqd2Sh_aHtcuPz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>24</ymin>
+			<xmax>326</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

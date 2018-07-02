@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>chandigarh-wednesday-february-marriott-chandigarh-february-hindustan_ee75266a-4091-11e7-b7e5-3de2b6485255.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/chandigarh-wednesday-february-marriott-chandigarh-february-hindustan_ee75266a-4091-11e7-b7e5-3de2b6485255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>105</ymin>
+			<xmax>520</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

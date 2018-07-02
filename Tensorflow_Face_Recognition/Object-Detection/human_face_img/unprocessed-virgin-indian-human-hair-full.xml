@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>unprocessed-virgin-indian-human-hair-full.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/unprocessed-virgin-indian-human-hair-full.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>53</ymin>
+			<xmax>470</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>47665ea1b9ad00f88c80a33105f22573--hot-beards-bearded-guys.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/47665ea1b9ad00f88c80a33105f22573--hot-beards-bearded-guys.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>713</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>147</ymin>
+			<xmax>448</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

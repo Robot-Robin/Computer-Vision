@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Sexy-Guys-Instagram.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/Sexy-Guys-Instagram.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>1</ymin>
+			<xmax>449</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

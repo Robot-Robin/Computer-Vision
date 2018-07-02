@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Kevin+Hart+Stars+Black+Carpet+Laugh+My+Pain+Fn2UOEe2RP8l.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/Kevin+Hart+Stars+Black+Carpet+Laugh+My+Pain+Fn2UOEe2RP8l.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>594</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>105</ymin>
+			<xmax>326</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

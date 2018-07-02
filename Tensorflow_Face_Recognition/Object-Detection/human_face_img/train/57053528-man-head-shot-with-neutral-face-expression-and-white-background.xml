@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>57053528-man-head-shot-with-neutral-face-expression-and-white-background.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/57053528-man-head-shot-with-neutral-face-expression-and-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1010</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>318</ymin>
+			<xmax>748</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>shima_nikpour_tazeno_ir-8.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/shima_nikpour_tazeno_ir-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>529</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>93</ymin>
+			<xmax>330</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>a5d08386f38fdda4e68d91c6f3173611.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/a5d08386f38fdda4e68d91c6f3173611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>532</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>180</ymin>
+			<xmax>410</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

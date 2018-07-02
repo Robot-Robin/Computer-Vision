@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>enhanced-27321-1421785073-2.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/enhanced-27321-1421785073-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>938</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>186</ymin>
+			<xmax>514</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+</annotation>

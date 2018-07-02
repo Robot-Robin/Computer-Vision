@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>bia2tafrih.ir_2014-03-28_22-45-121.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/bia2tafrih.ir_2014-03-28_22-45-121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>58</ymin>
+			<xmax>198</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

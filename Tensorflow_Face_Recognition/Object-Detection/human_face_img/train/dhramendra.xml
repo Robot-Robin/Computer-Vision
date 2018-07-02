@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>dhramendra.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/dhramendra.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>1063</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>201</ymin>
+			<xmax>660</xmax>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+</annotation>

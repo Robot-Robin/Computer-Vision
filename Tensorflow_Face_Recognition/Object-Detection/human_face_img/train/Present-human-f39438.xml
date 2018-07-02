@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Present-human-f39438.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/Present-human-f39438.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>715</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>98</ymin>
+			<xmax>444</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

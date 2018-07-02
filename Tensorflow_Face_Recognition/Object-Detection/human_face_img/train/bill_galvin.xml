@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>bill_galvin.png</filename>
+	<path>/home/robin/Desktop/human_face_img/bill_galvin.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>84</ymin>
+			<xmax>205</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>man-783701_960_720.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/man-783701_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>81</ymin>
+			<xmax>702</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

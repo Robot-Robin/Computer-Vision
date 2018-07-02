@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Tyler-Davis.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/Tyler-Davis.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>94</ymin>
+			<xmax>330</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

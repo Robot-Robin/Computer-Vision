@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>mens-recent-hairstyles-57.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/mens-recent-hairstyles-57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>137</ymin>
+			<xmax>395</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

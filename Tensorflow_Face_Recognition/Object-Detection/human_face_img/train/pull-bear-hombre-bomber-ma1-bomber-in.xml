@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>pull-bear-hombre-bomber-ma1-bomber-in.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/pull-bear-hombre-bomber-ma1-bomber-in.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>62</ymin>
+			<xmax>130</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

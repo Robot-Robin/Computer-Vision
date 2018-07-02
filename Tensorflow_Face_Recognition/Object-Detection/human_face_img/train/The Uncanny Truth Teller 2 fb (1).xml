@@ -1,0 +1,50 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>The Uncanny Truth Teller 2 fb (1).jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/The Uncanny Truth Teller 2 fb (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>139</ymin>
+			<xmax>338</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>52</ymin>
+			<xmax>463</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>26</ymin>
+			<xmax>702</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

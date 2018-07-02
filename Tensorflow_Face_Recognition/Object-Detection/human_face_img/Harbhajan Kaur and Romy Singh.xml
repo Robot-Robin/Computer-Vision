@@ -1,0 +1,38 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Harbhajan Kaur and Romy Singh.JPG</filename>
+	<path>/home/robin/Desktop/human_face_img/Harbhajan Kaur and Romy Singh.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>253</ymin>
+			<xmax>463</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>104</ymin>
+			<xmax>1266</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

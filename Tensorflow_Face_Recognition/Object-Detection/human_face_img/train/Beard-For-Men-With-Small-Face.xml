@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>Beard-For-Men-With-Small-Face.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/Beard-For-Men-With-Small-Face.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>144</ymin>
+			<xmax>513</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

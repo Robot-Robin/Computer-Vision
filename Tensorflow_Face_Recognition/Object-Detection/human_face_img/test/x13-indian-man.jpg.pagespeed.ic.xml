@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human_face_img</folder>
+	<filename>x13-indian-man.jpg.pagespeed.ic.dpW8GrmC6W.jpg</filename>
+	<path>/home/robin/Desktop/human_face_img/x13-indian-man.jpg.pagespeed.ic.dpW8GrmC6W.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>101</ymin>
+			<xmax>368</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
